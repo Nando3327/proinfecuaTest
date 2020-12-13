@@ -1,0 +1,10 @@
+
+[javascript:S1481Î"7Remove the declaration of the unused 'swiper' variable.(îÙ››8±˜²¦ä.
+Xjavascript:S1854Î"4Remove this useless assignment to variable "swiper".(îÙ››8±˜²¦ä.
+Ejavascript:S2814ã"'swiper' is already defined.(ÅÿŽÊùÿÿÿÿ8±˜²¦ä.
+`javascript:S1481ã"7Remove the declaration of the unused 'swiper' variable.(ÅÿŽÊùÿÿÿÿ8±˜²¦ä.
+]javascript:S1854ã"4Remove this useless assignment to variable "swiper".(ÅÿŽÊùÿÿÿÿ8±˜²¦ä.
+_javascript:S1481Š"6Remove the declaration of the unused '$this' variable.(Æ©ƒÞùÿÿÿÿ8±˜²¦ä.
+Xjavascript:S1117Š"/'$this' is already declared in the upper scope.(Æ©ƒÞùÿÿÿÿ8±˜²¦ä.
+\javascript:S1854Š"3Remove this useless assignment to variable "$this".(Æ©ƒÞùÿÿÿÿ8±˜²¦ä.
+Wjavascript:S1534ž"4Rename or remove duplicate property name 'infinite'.(ä®’8±˜²¦ä.
